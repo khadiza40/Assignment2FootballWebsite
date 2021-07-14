@@ -100,7 +100,15 @@ height: 230px;
 height: 500px ;
 width: 80%;
 padding: 7%;
-
+}
+.BannaerImage img:hover{
+  
+    box-shadow:  0 0 10px #0c2061, 0 0 40px #0d1941, 0 0 80px #071544;
+    color: white;
+    background: #050f18;
+    transition-delay: 1s;
+    
+    
 
 }
 /* Main section */
